@@ -1,0 +1,12 @@
+{
+  "name": "modern-js",
+  "version": "1.0.0",
+  "description": "Experiment moder js libraries and features",
+  "main": "index.js",
+  "repository": "git@github.com:engr-hasanuzzaman/modern-js.git",
+  "author": "engr.hasanuzzaman <hasanuzzaman.sumon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "immer": "^6.0.3"
+  }
+}
